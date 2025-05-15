@@ -27,3 +27,6 @@ int main() {
 	return 0;
 
 }
+
+/* With the help of swaping the segment of length k which is greater than 1 we can bring any element to the position 
+we want by swapping its adjacent number. */
